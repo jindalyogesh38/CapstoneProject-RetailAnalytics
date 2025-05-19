@@ -20,35 +20,38 @@ Employees & Offices: Employee details and their regional offices for sales perfo
 📌 Features
 
 🗺️ Regional Sales Analysis
+
 📦 Product Insights
+
 👥 Customer Segmentation
+
 📉 Trend Visualization
+
 🔍 Custom Visuals (scatter plots, pie charts, bar charts, heatmaps)
 
 🛠 Tools Used
 
 Power BI – Data modeling and dashboard creation
+
 Microsoft Excel – Data cleaning, pivot reports, exploratory visuals
+
 Microsoft Word – Insight documentation
+
 Microsoft PowerPoint – Business presentation
+
 SQL - Data Extraction
 
 📦 Project Deliverables
 
 📁 Power BI Report (.pbix) – Interactive dashboards
+
 📊 Excel Dashboard (.xlsx) – Pivot-based KPIs and charts
+
 📝 Word Document (.docx) – Insight summary (MECE-structured)
+
 📽 Presentation (.pptx) – Slide deck for stakeholders
+
 📄 PDF Report (.pdf) – Exported summary for MECE Breakdown
+
 🎥 Video Walkthrough (.mp4) – Guided explanation of dashboard and findings
 
-📈 Sample Visuals Included
-
-Sales Revenue by Region
-Monthly Order Volume Trends
-Product Sales by Category
-Customer Segmentation by Credit Limit
-Sales Contribution by Top Customers
-Product Price vs. Sales Volume
-CLTV by Acquisition Channel
-Profitability vs. Quantity in Stock
