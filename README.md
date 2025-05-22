@@ -1,5 +1,7 @@
 # CapstoneProject--RetailAnalytics
 
+VIDEO PRESENTATION LINK - https://drive.google.com/file/d/1Bwx1jxm1WSMQt0OQHJ95g5HE9zB_5EZr/view?usp=sharing
+
 📊 Overview
 This project presents a comprehensive Retail Analytics Dashboard built using Power BI and Excel, based on an integrated dataset containing customer, sales, order, product, employee, and regional data. The dashboard provides actionable insights into business performance, customer behavior, and product trends to support strategic decision-making in a retail environment.
 
